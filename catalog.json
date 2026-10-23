@@ -1,0 +1,1376 @@
+{
+  "version": 1,
+  "updated": "2026-10-18T13:07:21.628Z",
+  "categories": [
+    {
+      "name": "GAMING",
+      "specs": []
+    },
+    {
+      "name": "Networking Products",
+      "specs": []
+    }
+  ],
+  "products": [
+    {
+      "id": "p-mvdhreyl",
+      "name": "Ps4 Slim.",
+      "cat": "GAMING",
+      "brand": "Sony",
+      "price": 30000,
+      "sale": 28000,
+      "qty": 100,
+      "min": 2,
+      "desc": "This PlayStation 4 Slim bundle is a complete, ready-to-play gaming package designed for immediate entertainment straight out of the box. The console itself is the sleek, compact revision of the PS4—roughly 30% smaller and lighter than the original model—featuring a matte finish and improved energy efficiency. This particular unit is chipped (jailbroken/modified) and comes with a spacious 1TB hard drive, meaning it is pre-configured to run backed-up or homebrew software while offering ample room for a large digital library. To get you started right away, seven games are pre-installed, offering a variety of genres so you can jump straight into gameplay without additional purchases. The bundle also includes two gaming controllers (DualShock 4), making it perfect for local multiplayer sessions with a friend or family member right from day one. Whether you're into action, sports, or story-driven adventures, this bundle delivers a plug-and-play experience with everything you need to start gaming immediately.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvdhreyl-1-mvdhvv4b.jpg",
+        "/images/shop/p-mvdhreyl-2-mvdhvxev.jpg"
+      ],
+      "specs": [],
+      "created": 1792307755389,
+      "cost": null
+    },
+    {
+      "id": "p-mvdhnr2r",
+      "name": "Xpon Router",
+      "cat": "Networking Products",
+      "brand": "Huawei",
+      "price": 2500,
+      "sale": 2150,
+      "qty": 100,
+      "min": 2,
+      "desc": "The Huawei XPON fiber router is a high-performance home gateway designed for FTTH (Fiber to the Home) ultra-broadband access. It serves as the central hub of a smart home, converting optical signals into wired and wireless network connectivity for seamless internet, HD video, and VoIP services. Engineered for gigabit fiber environments, this device supports plug-and-play deployment and remote management, making it ideal for users who require stable, high-speed connectivity for bandwidth-intensive applications like 4K streaming, online gaming, and remote work. Its dual-band Wi-Fi ensures comprehensive coverage, while the inclusion of voice ports and multiple Ethernet interfaces provides versatile connectivity for legacy phones, set-top boxes, and computers alike.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvdhnr2r-1-mvdhqteq.jpg",
+        "/images/shop/p-mvdhnr2r-2-mvdhqvuq.jpg",
+        "/images/shop/p-mvdhnr2r-3-mvdhqxwc.jpg"
+      ],
+      "specs": [],
+      "created": 1792307584467,
+      "cost": null
+    },
+    {
+      "id": "p-mvdhkllg",
+      "name": "Tenda F3",
+      "cat": "Networking Products",
+      "brand": "Shenzhen Tenda Technology Co., Ltd",
+      "price": 2300,
+      "sale": 2000,
+      "qty": 10,
+      "min": 2,
+      "desc": "The Tenda F3 is a compact, entry-level wireless router designed for small to medium-sized homes that need reliable everyday Wi-Fi without a high price tag. It operates on the single 2.4GHz band with a maximum theoretical speed of 300Mbps, making it ideal for basic web browsing, social media, music streaming, and standard-definition video. The router features three external 5dBi high-gain antennas that help extend signal reach to eliminate dead zones in apartments or small houses. Setup is intentionally simplified—Tenda claims you can get online in about 30 seconds through its intuitive interface, a major selling point for non-technical users. The F3 also includes practical software features like IP-based bandwidth control (to prioritize traffic), parental controls for filtering content and limiting time, and WPA/WPA2 security protocols. It is a no-frills, budget-conscious choice for users who just need dependable basic connectivity",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvdhkllg-1-mvdhn7bl.jpg",
+        "/images/shop/p-mvdhkllg-2-mvdhn9zm.jpg",
+        "/images/shop/p-mvdhkllg-3-mvdhncj8.jpg"
+      ],
+      "specs": [
+        [
+          "Ports & Antennas",
+          "1x 10/100Mbps WAN + 3x 10/100Mbps LAN ports, 3x 5dBi external antennas."
+        ]
+      ],
+      "created": 1792307437396
+    },
+    {
+      "id": "p-mvcptbg3",
+      "name": "Ucom pad",
+      "cat": "GAMING",
+      "brand": "Ucom",
+      "price": 1000,
+      "sale": 850,
+      "qty": 10,
+      "min": 2,
+      "desc": "Single player gaming pad",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcptbg3-1-mvcq0p7i.jpg"
+      ],
+      "specs": [],
+      "created": 1792260814899
+    },
+    {
+      "id": "p-mvcmem2b",
+      "name": "ALYONS",
+      "cat": "Sound",
+      "brand": "alyons 2.1",
+      "price": 4000,
+      "sale": 3500,
+      "qty": 10,
+      "min": 2,
+      "desc": "",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcmem2b-1-mvcmfeax.jpg"
+      ],
+      "specs": [],
+      "created": 1792255089971
+    },
+    {
+      "id": "p-mvcmamiy",
+      "name": "Ailyons ELP2409K",
+      "cat": "Sound",
+      "brand": "alyons 2.1",
+      "price": 4000,
+      "sale": 3500,
+      "qty": 10,
+      "min": 2,
+      "desc": "",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcmamiy-1-mvcmba7t.jpg"
+      ],
+      "specs": [],
+      "created": 1792254903946
+    },
+    {
+      "id": "p-mvcm5iqo",
+      "name": "Ailyons 2.1",
+      "cat": "Sound",
+      "brand": "alyons",
+      "price": 4000,
+      "sale": 3500,
+      "qty": 10,
+      "min": 2,
+      "desc": "",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcm5iqo-1-mvcm5s82.jpg"
+      ],
+      "specs": [],
+      "created": 1792254665760
+    },
+    {
+      "id": "p-mvclyfyh",
+      "name": "Sayona SHT-1148BT",
+      "cat": "Sound",
+      "brand": "Sayona",
+      "price": 15800,
+      "sale": 12800,
+      "qty": 10,
+      "min": 2,
+      "desc": "• Channel Configuration: 4.1-channel surround sound system (1 main subwoofer and 4 satellite speakers).\n• Power Output: Rated at 152W RMS (80W for subwoofer + 18W x 4 for satellites) with a 16,000W PMPO (Peak Music Power Output) rating.\n• Connectivity: Bluetooth wireless streaming, USB port, SD/MMC card slot, AUX input, and Digital FM radio.\n• Controls & Display: Front digital LED display, blue light accent around the volume knob, top-mounted physical buttons, and an included remote control.\n• Audio Adjustments: Independent treble and surround level adjustments",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvclyfyh-1-mvclyogc.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "16000"
+        ]
+      ],
+      "created": 1792254335561
+    },
+    {
+      "id": "p-mvclsvyj",
+      "name": "Sonar electric kettle",
+      "cat": "Appliances",
+      "brand": "SONAR",
+      "price": 1100,
+      "sale": 800,
+      "qty": 11,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Capacities: Available in 1.8L and 2.0L models (with select variants starting around 0.8L).\n• Power: 1500W heating element for rapid boiling.\n• Materials: Food-grade stainless steel or heat-resistant plastic (such as the Sonar X2 and P2 models).\n• Safety Features: Automatic shut-off once water boils, plus boil-dry and overheating protection.\n• Design: Cordless body with a 360° rotational base, wide mouth for easy cleaning, and a 1.5-meter power cord.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvclsvyj-1-mvclt32t.jpg"
+      ],
+      "specs": [],
+      "created": 1792254076363
+    },
+    {
+      "id": "p-mvcll915",
+      "name": "GLD 55\" Smart TV",
+      "cat": "Televisions",
+      "brand": "GLD",
+      "price": 41500,
+      "sale": 38500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Resolution: 4K Ultra HD (3840 x 2160) clear display with LED/frameless design.\n• Operating Systems: Available in different software variants including Android TV (with Google Play Store), VIDAA OS, and Tizen OS.\n• Pre-installed Apps: Netflix, YouTube, Amazon Prime Video, and Deezer.\n• Connectivity: Built-in Wi-Fi, Bluetooth, 3 x HDMI ports, 2 x USB ports, Digital Audio Out, and DVB-T2/S2 digital tuners for free-to-air channels.\n• Audio: Stereo sound / Dolby Audio on select Tizen and UHD",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcll915-1-mvclli9a.jpg"
+      ],
+      "specs": [],
+      "created": 1792253720057
+    },
+    {
+      "id": "p-mvclgr09",
+      "name": "GLD 32\" Smart Android",
+      "cat": "Televisions",
+      "brand": "GLD",
+      "price": 16700,
+      "sale": 13700,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Display Size: 32 inches\n• Resolution: HD Ready (1366 × 768) or Full HD (1920 × 1080) depending on the specific sub-model\n• Operating System: Android Smart TV\n• Smart Apps: Pre-installed access to Netflix, YouTube, Amazon Prime Video, and Facebook via app stores\n• Connectivity:\n\t• Wi-Fi and Ethernet (RJ45)\n\t• Bluetooth\n\t• 3 HDMI ports\n\t• 2 USB ports\n\t• AV input\n• Audio: 8W × 2 speakers with Dolby Audio support and Automatic Volume Leveller (AVL)\n• Design: Frameless slim build, lightweight",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvclgr09-1-mvclgz81.jpg"
+      ],
+      "specs": [],
+      "created": 1792253510073
+    },
+    {
+      "id": "p-mvckvgad",
+      "name": "Ipcone Dispenser",
+      "cat": "Appliances",
+      "brand": "Ipcone",
+      "price": 4200,
+      "sale": 3200,
+      "qty": 10,
+      "min": 2,
+      "desc": "hot and cold",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvckvgad-1-mvckye8i.jpg"
+      ],
+      "specs": [],
+      "created": 1792252516405
+    },
+    {
+      "id": "p-mvckhgcy",
+      "name": "Olelon 2 Burner Glass Tabletop Cooke",
+      "cat": "Appliances",
+      "brand": "Olelon",
+      "price": 5200,
+      "sale": 2200,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features\n\n• Design: Sleek, heat-resistant tempered glass top that is smooth and easy to wipe clean.\n• Burners: Two high-efficiency or infrared-style burners allowing you to cook multiple meals simultaneously.\n• Ignition: Built-in automatic ignition system for quick, match-free lighting.\n• Portability: Lightweight, compact footprint with anti-slip legs for stability on tables or counters.",
+      "featured": true,
+      "images": [
+        "/images/shop/p-mvckhgcy-1-mvckicrh.jpg"
+      ],
+      "specs": [],
+      "created": 1792251863314
+    },
+    {
+      "id": "p-mvck6jep",
+      "name": "Skyworth 43",
+      "cat": "Televisions",
+      "brand": "skyworth 43Q5600H",
+      "price": 30500,
+      "sale": 27500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Popular Skyworth 43-Inch Models & Specifications\n\n• Skyworth 43Q5600H (QLED Google TV)\n\t• Display: 43-inch 2K QLED with Prolonged Vivid QLED+ technology\n\t• Resolution / Refresh Rate: QLED / 60–120 Hz\n\t• Smart Platform: Google TV with Google Assistant & Find-My-Remote\n\t• Audio: Dolby Audio\n\t• Eye Care: Flicker-Free & Low Blue Light",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvck6jep-1-mvck6x46.jpg"
+      ],
+      "specs": [
+        [
+          "inches",
+          "43"
+        ]
+      ],
+      "created": 1792251354049
+    },
+    {
+      "id": "p-mvck0dov",
+      "name": "Solarmax 32\" Smart QLED Android Tv",
+      "cat": "Televisions",
+      "brand": "solarmax",
+      "price": 16000,
+      "sale": 13000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features\n\n• Display: 32-inch QLED / Full HD (1080p) screen with a frameless, slim design.\n• Smart System: Runs on Android OS with built-in access to YouTube, Netflix, Prime Video, Facebook, and the Google Play Store.\n• Connectivity: Wi-Fi, LAN, Bluetooth, HDMI ports, USB ports, and screen mirroring (iCast).\n• Digital Tuner: Inbuilt free-to-air digital decoder (DVB-T2) for local channels without needing an external set-top box.\n• Audio & Extra Features: Multi-surround sound effect, PVR live TV recording, and USB media playback.\n• Bundled Accessories: Frequently sold with a wall bracket, TV guard extension cable, or extra promotional gifts depending on the retailer",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvck0dov-1-mvck0s5x.jpg"
+      ],
+      "specs": [
+        [
+          "inches",
+          "32"
+        ]
+      ],
+      "created": 1792251066703
+    },
+    {
+      "id": "p-mvcjlsqm",
+      "name": "Vitron V535SB 5.1 Wired Soundbar System",
+      "cat": "Sound",
+      "brand": "vitron",
+      "price": 10400,
+      "sale": 7400,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Audio Output: 115W RMS total output (11,500W PMPO)\n• Configuration: True 5.1-channel surround sound with a soundbar, wired subwoofer, and satellite speakers\n• Frequency Response: 40Hz – 20kHz\n• Connectivity: Bluetooth, HDMI (ARC), USB port, Optical, Coaxial, and AUX (3.5mm) inputs\n• Extra Features: Built-in FM radio, LED digital display, and a remote controll",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcjlsqm-1-mvcjmg22.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "115"
+        ]
+      ],
+      "created": 1792250386366
+    },
+    {
+      "id": "p-mvcjgyto",
+      "name": "Vitron Sound bar V61SB 1200w 2.1ch wired system super bass",
+      "cat": "Sound",
+      "brand": "vitron",
+      "price": 10999,
+      "sale": 7999,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features and Specifications\n\n• Channel Configuration: 2.1-channel setup (slim soundbar paired with a dedicated subwoofer)\n• Power Output: Rated up to 1200W (PMPO/peak representation)\n• Connectivity Options:\n\t• Bluetooth wireless streaming for phones and music players\n\t• Wired connections including AUX, RCA, USB slot, and line-in\n• Design: Slim soundbar with a flexible subwoofer that can be placed upright or horizontally",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcjgyto-1-mvcjhabr.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "1200"
+        ]
+      ],
+      "created": 1792250160972
+    },
+    {
+      "id": "p-mvcj8pk0",
+      "name": "Vitron V527 2.1CH Multimedia Speaker System",
+      "cat": "Sound",
+      "brand": "vitron",
+      "price": 9500,
+      "sale": 6500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features & Specifications\n\n• Channel Configuration: 2.1 channels featuring a wired subwoofer and two satellite speakers.\n• Detachable Design: The two satellite speakers can stand upright as traditional pillars or twist/merge together to form a single horizontal soundbar unit.\n• Power Output: Rated at 9000W PMPO (Peak Music Power Output) with an overall audio output of about 60W.\n• Audio & Connectivity:\n\t• Wireless Bluetooth connectivity\n\t• USB port for flash drive playback\n\t• SD/MMC card slot\n\t• Built-in digital FM radio with antenna input\n\t• AUX input (red/white RCA connectors)\n• Audio Specs: Frequency response of 35 Hz – 20 kHz, signal-to-noise ratio ≥ 68 dB, channel separation ≥ 45 dB, and distortion ≤ 0.5% at 1W.\n• Control: Includes a physical control panel with an LED display and a wireless remote control.\n• Power Supply: Runs on AC 220–240V (50–60 Hz).",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcj8pk0-1-mvcj9euv.jpg"
+      ],
+      "specs": [
+        [
+          "watt",
+          "9000"
+        ]
+      ],
+      "created": 1792249775712
+    },
+    {
+      "id": "p-mvciqz05",
+      "name": "AMTEC Am-006 Mtungi woofer 2.1CH",
+      "cat": "Sound",
+      "brand": "AMTEC",
+      "price": 12000,
+      "sale": 9000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Channel Configuration: 2.1 Channel (cylindrical Mtungi subwoofer + 2 satellite/mid-range speakers)\n• Power Output: Rated up to 15,000W PMPO\n• Design: Cylindrical \"Mtungi\" shape with a downward-facing subwoofer and top-mounted controls/LED lighting\n• Connectivity: Bluetooth, USB flash drive, AUX input, and SD/MMC card slot\n• Radio: Built-in digital FM radio tuner with auto-scan\n• Power Options: AC/DC support (works on standard wall sockets and select solar or battery backups)\n• Extras: Often bundled with accessories like a remote control or promotional items such as wireless earbuds depending on the vendo",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvciqz05-1-mvciraln.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "15000"
+        ]
+      ],
+      "created": 1792248948149
+    },
+    {
+      "id": "p-mvcihq5g",
+      "name": "JTC MTUNGI 2.1CH HOMETHEATRE",
+      "cat": "Sound",
+      "brand": "JTC",
+      "price": 11500,
+      "sale": 8500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Channel Setup: 2.1 Channel (One 6.5-inch Subwoofer + Two 3-inch Satellite Speakers)\n• Output Power: 90W (Subwoofer) + 15W x 2 (Satellites)\n• Peak Power (PMPO): 12,000W\n• Connectivity: Bluetooth, USB port, SD card reader, FM Radio, and Aux Input\n• Extras: LED display, remote control, and a free microphone included in many retail packages",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcihq5g-1-mvcihxxo.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "12000"
+        ]
+      ],
+      "created": 1792248516772
+    },
+    {
+      "id": "p-mvci80wq",
+      "name": "TCL Q85H 860W",
+      "cat": "Sound",
+      "brand": "TCL",
+      "price": 58000,
+      "sale": 55000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Audio Channels: True 7.1.4 physical surround sound (7 main/side channels, wireless subwoofer, and 4 up-firing height channels including rear satellite speakers).\n• Peak Power: 860W max/peak total power output.\n• Subwoofer: Independent 200W wireless subwoofer with a 6.5-inch driver and bass extension down to 45 Hz.\n• Sound Tech: Dolby Atmos, DTS:X support, Ray·Danz acoustic reflector technology, and AI Sonic-Adaptation room calibration.\n• Gaming Features: 4K@120Hz passthrough, Variable Refresh Rate (VRR), and Auto Low Latency Mode (ALLM).\n• Connectivity: HDMI eARC (2.1), HDMI inputs, Optical, USB, Bluetooth 5.1, Wi-Fi, Apple AirPlay 2, and Chromecast built-in.\n• Smart Integration: Tutti Choral audio sharing/synchronization with compatible",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvci80wq-1-mvci8dut.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "860"
+        ]
+      ],
+      "created": 1792248064154
+    },
+    {
+      "id": "p-mvci0dd0",
+      "name": "TCL Q75H 620W",
+      "cat": "Sound",
+      "brand": "TCL",
+      "price": 45000,
+      "sale": 42000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Audio Channels: 5.1.2-channel physical surround configuration with 5 main channels, 2 up-firing Atmos drivers, and a wireless subwoofer.\n• Power Output: 620W cumulative peak power, featuring a 200W wireless independent subwoofer with a 6.5-inch driver and bass going down to 45Hz.\n• Sound Technology: Dolby Atmos and DTS:X support, RAY·DANZ acoustic reflector technology for a wider soundstage, and AI Sonic-Adaptation room calibration.\n• Connectivity: HDMI eARC (2.1), HDMI input, Optical, USB (up to 64GB), Bluetooth 5.1/5.3, and Apple AirPlay 2",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvci0dd0-1-mvci1d8x.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "620"
+        ]
+      ],
+      "created": 1792247707044
+    },
+    {
+      "id": "p-mvchv1d2",
+      "name": "TCL Q65H 580W",
+      "cat": "Sound",
+      "brand": "TCL",
+      "price": 35000,
+      "sale": 32000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Channel Configuration: True 5.1 physical surround channels with 5 main drivers and a wireless subwoofer.\n• Power Output: 580W max peak power (including a 150W wireless subwoofer).\n• Acoustic Design: TCL RAY·DANZ 60° amplified horn technology for a wide soundstage without rear speakers.\n• Audio Formats: Dolby Atmos and DTS:X support.\n• Calibration & Tuning: AI Sonic-Adaptation room calibration and Golden Ear tuning.\n• Connectivity: HDMI eARC, HDMI IN (with 4K HDR, Dolby Vision, VRR, and ALLM pass-through), Optical, USB, Wi-Fi, and Bluetooth 5.3.\n• Design: Inky Arc curved metal design with an aluminum-brushed panel.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvchv1d2-1-mvchvkwm.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "580"
+        ]
+      ],
+      "created": 1792247458214
+    },
+    {
+      "id": "p-mvchmk49",
+      "name": "TCL S55H 220W",
+      "cat": "Sound",
+      "brand": "TCL",
+      "price": 21500,
+      "sale": 18500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Channel Configuration: 2.1 channels featuring a slim main soundbar and a 120W wireless subwoofer.\n• Power Output: 220W maximum total output power.\n• Sound Technologies: Dolby Atmos, DTS Virtual:X, AI Sonic-Adaptation room calibration, and Tutti Choral (for synchronized audio with compatible TCL TVs).\n• Acoustic Design: Dual Horn Echo Chambers and Dual Bass System for deep, low-frequency enhancement.\n• Connectivity: HDMI (with eARC/ARC), Bluetooth 5.2/5.3, Optical input, USB (up to 64GB), and 3.5mm AUX.\n• Dimensions:\n\t• Soundbar: 810 x 60 x 98 mm\n\t• Subwoofer: 195 x 320 x 195 mm\n• Included Accessories: Remote control, batteries, HDMI cable, power cables, and a wall-mount kit.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvchmk49-1-mvcho5h6.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "220"
+        ]
+      ],
+      "created": 1792247062617
+    },
+    {
+      "id": "p-mvchekhh",
+      "name": "Vitron soundbar V61SB",
+      "cat": "Sound",
+      "brand": "vitron",
+      "price": 10800,
+      "sale": 7800,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Audio Channels: 2.1 Channel (soundbar with a dedicated subwoofer)\n• Power Output: 120W RMS / up to 12,000W PMPO (Peak Music Power Output)\n• Connectivity Options: Bluetooth, HDMI ARC, Optical input, USB port, SD card slot, AUX (3.5mm), and Digital FM radio\n• Control: Includes a remote control and physical unit buttons with an LED display",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvchekhh-1-mvchey3r.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "120"
+        ]
+      ],
+      "created": 1792246689845
+    },
+    {
+      "id": "p-mvcgs3tj",
+      "name": "Hisense Soundbar AX5100Q",
+      "cat": "Sound",
+      "brand": "hisense",
+      "price": 30500,
+      "sale": 27000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Channel Configuration: True 5.1 channels with a main soundbar, a 6.5-inch wireless active subwoofer, and two rear surround speakers.\n• Power Output: 580W total RMS power (soundbar and subwoofer).\n• Audio Formats: Dolby Atmos and DTS:X support for 3D surround sound.\n• Sound Modes: Seven EQ modes including Movie, Music, News, Game, Sport, Night, and AI mode.\n• Connectivity: HDMI eARC, HDMI 2.1 (4K pass-through), Optical input, USB, and Bluetooth 5.3.\n• Convenience Features: EzPlay support to control the soundbar using a compatible Hisense TV remote.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcgs3tj-1-mvcgsmku.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "580"
+        ]
+      ],
+      "created": 1792245641815
+    },
+    {
+      "id": "p-mvcglbhf",
+      "name": "Hisense Soundbar HS2100",
+      "cat": "Sound",
+      "brand": "hisense",
+      "price": 18500,
+      "sale": 15500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Channel Setup: 2.1 channels (2 speakers on the bar plus a wireless 5.25″ subwoofer).\n• Power Output: 240W total power (120W for the soundbar, 120W for the subwoofer).\n• Audio Tech: Dolby Audio, Dolby Digital Plus, and DTS Virtual:X for virtual surround sound.\n• Connectivity:\n\t• Bluetooth v5.3\n\t• HDMI ARC (with EzPlay support for compatible Hisense TVs)\n\t• Optical (TOSLINK) input\n\t• AUX (3.5mm) input\n\t• USB port\n• Sound Modes: Preset EQ modes including Movie, Music, Night, News, Sports, and Game, plus manual bass and treble controls.\n• Design: Wall-mountable soundbar with a compact wireless subwoofer designed to fit standard living space",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcglbhf-1-mvcgm22x.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "240"
+        ]
+      ],
+      "created": 1792245325155
+    },
+    {
+      "id": "p-mvcg9edm",
+      "name": "Hisense Soundbar AX3100Q",
+      "cat": "Sound",
+      "brand": "hisense",
+      "price": 26500,
+      "sale": 23500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Audio Channels: 3.1-channel setup featuring a dedicated center-channel speaker for crystal-clear dialogue.\n• Power Output: 500 Watts total system power.\n• Subwoofer: Wireless 6.5-inch subwoofer for deep, distortion-free bass.\n• Surround Sound: Dolby Atmos and DTS:X support for 3D spatial and directional audio.\n• Sound Modes: AI EQ technology with multiple pre-set modes (Movie, Music, News, Sports, Game, Night).\n• Connectivity: Bluetooth 5.3, HDMI eARC, Optical input, AUX, and USB.\n• Smart Features: EzPlay integration to control the soundbar directly using a compatible Hisense TV remote.\n• Design: Slim, wall-mountable profile",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcg9edm-1-mvcgaqen.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "500"
+        ]
+      ],
+      "created": 1792244769034
+    },
+    {
+      "id": "p-mvcg5hvr",
+      "name": "Hisense Soundbar HS5100",
+      "cat": "Sound",
+      "brand": "hisense",
+      "price": 26000,
+      "sale": 23000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Channel Configuration: True 5.1 channel system (3 main soundbar drivers, dedicated center speaker, 2 rear surround speakers, and a wireless subwoofer).\n• Power Output: 540W maximum audio power.\n• Subwoofer: 6.5-inch wireless subwoofer for deep bass.\n• Audio Technology: Dolby Audio, Dolby Digital Plus, and DTS Virtual:X for virtualized 3D surround sound.\n• Connectivity: HDMI ARC, Optical input, AUX input, USB playback, and Bluetooth 5.3.\n• Special Features: Voice Enhancement Technology on the center channel, EQ presets (including News and Night modes), and EzPlay / TV Mode integration for compatible Hisense TVs.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcg5hvr-1-mvcg5u36.jpg"
+      ],
+      "specs": [
+        [
+          "wats",
+          "540"
+        ]
+      ],
+      "created": 1792244586951
+    },
+    {
+      "id": "p-mvcfww4m",
+      "name": "Hisense Soundbar HS3100",
+      "cat": "Sound",
+      "brand": "hisense",
+      "price": 22500,
+      "sale": 19500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Channel Configuration: 3.1 channels with 6 built-in speakers (including a dedicated center speaker for clear dialogue) and dual tweeters.\n• Subwoofer: 6.5-inch wireless subwoofer with a frequency range of 40 Hz to 200 Hz.\n• Audio Technology: Dolby Digital Plus, Dolby Audio, and DTS Virtual:X support.\n• Connectivity: Bluetooth 5.3, HDMI ARC / eARC, USB, Optical, and PC/Aux audio inputs.\n• Special Features: Easy Play 2.0 / EZ Play integration for control via your TV remote and customized sound modes (Movie, Music, News).\n• Upgrade Limitation: This system is not upgradeable; the wireless subwoofer lacks the auxiliary ports needed to add rear surround speakers later",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcfww4m-1-mvcfxdu2.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "480"
+        ]
+      ],
+      "created": 1792244185510
+    },
+    {
+      "id": "p-mvcfpr98",
+      "name": "Hisense Soundbar HS1800",
+      "cat": "Sound",
+      "brand": "hisense",
+      "price": 13500,
+      "sale": 10500,
+      "qty": 10,
+      "min": 2,
+      "desc": "• Audio Power: 140W max audio power output\n• Channel Configuration: 2.1 channels featuring two full-range drivers and a 4.5-inch wireless subwoofer\n• Connectivity: Bluetooth 5.3, HDMI ARC, USB port (supports media playback), Optical input, and 3.5mm AUX input\n• Sound Modes: Preset equalizer modes for Movie, Music, and News, plus a Bass Boost function\n• Design: Slim, wall-mountable profile with included wall-mount kit and remote control",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcfpr98-1-mvcfq0n5.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "140"
+        ]
+      ],
+      "created": 1792243852604
+    },
+    {
+      "id": "p-mvcfjz36",
+      "name": "SONY S60.",
+      "cat": "Sound",
+      "brand": "sony",
+      "price": 80000,
+      "sale": 77000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features & Specifications\n\n• Channel Configuration: 5.1-channel system featuring 10 total speakers (soundbar, a dedicated subwoofer, two rear satellite speakers, and a wireless amplifier box for the rear speakers).\n• Audio Technology: Supports Dolby Atmos and DTS:X, paired with Sony's Vertical Surround Engine, S-Force PRO Front Surround, and Multi Stereo mode.\n• Connectivity: Bluetooth 5.3 (SBC, AAC), HDMI eARC, optical input, analog AUX, and USB playback.\n• Smart Integration: Compatible with the BRAVIA Connect smartphone app and Voice Zoom 3 enhancement when paired with a compatible Sony",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcfjz36-1-mvcfka6i.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "1000"
+        ]
+      ],
+      "created": 1792243582818
+    },
+    {
+      "id": "p-mvcfditx",
+      "name": "SONY S400",
+      "cat": "Sound",
+      "brand": "sony",
+      "price": 39000,
+      "sale": 36000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features and Specifications\n\n• Audio Technology: S-Force PRO Front Surround and Dolby Digital for a virtual surround sound experience.\n• Speakers: X-Balanced Speaker Units with Separated Notch Edge technology for clear vocals and low distortion.\n• Power Output: 330W total power .\n• Connectivity: HDMI ARC, optical audio input, and Bluetooth 5.0.\n• Sound Modes: Voice Mode (enhances dialogue clarity), Night Mode (optimizes sound at lower volumes), and Sound Field.\n• Design: Wall-mountable flush design with an OLED display window.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcfditx-1-mvcfdr0t.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "330"
+        ]
+      ],
+      "created": 1792243281813
+    },
+    {
+      "id": "p-mvcez8uw",
+      "name": "SONY S20R",
+      "cat": "Sound",
+      "brand": "sony",
+      "price": 36500,
+      "sale": 33498,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Channel Configuration: 5.1ch system with a 3-channel soundbar, wired external subwoofer, and two wired rear speakers.\n• Power Output: 400W total power.\n• Audio Tech: Dolby Digital / Dolby Audio support.\n• Connectivity: Bluetooth for wireless streaming, USB port for memory stick playback, HDMI ARC, optical input, and analogue input.\n• Sound Modes: Auto, Standard, Cinema, Music, Night, and Voice.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcez8uw-1-mvcezh4h.jpg"
+      ],
+      "specs": [
+        [
+          "watts",
+          "400"
+        ]
+      ],
+      "created": 1792242615704
+    },
+    {
+      "id": "p-mvcerdv5",
+      "name": "HP ProBook x360 G6",
+      "cat": "Laptops",
+      "brand": "hp",
+      "price": 28000,
+      "sale": 25000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Processor: 10th Generation Intel Core i3 (such as the i3-10110Y) or Intel Core i5 (such as the i5-10210Y)\n• Display: 11.6-inch diagonal HD (1366 x 768) touchscreen with a 360-degree convertible hinge (laptop, tablet, tent, and stand modes)\n• Memory (RAM): 4GB or 8GB DDR4 (note: RAM is typically soldered and non-upgradeable on some configurations)\n• Storage: 128GB or 256GB NVMe SSD\n• Graphics: Integrated Intel UHD Graphics\n• Operating System: Windows 10 Pro or Windows 11 Pro\n• Design & Durability: Reinforced rubber bumpers, spill-resistant keyboard with HP Easy Clean, and a weight of roughly 1.4 kg (3.2 lbs)\n• Ports: USB Type-A (USB 3.2 Gen 1) and USB Type-C with power delivery support",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcerdv5-1-mvcerlph.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "Intel Core i5   10th Generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ]
+      ],
+      "created": 1792242248945
+    },
+    {
+      "id": "p-mvceit93",
+      "name": "HP Elitebook 840 g7",
+      "cat": "Laptops",
+      "brand": "hp",
+      "price": 36500,
+      "sale": 33500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Processor: 10th Gen Intel Core i5 or Core i7 (including vPro options)\n• Memory (RAM): Configurable from 8GB up to 16GB–32GB+ DDR4 (user-upgradeable)\n• Storage: 256GB or 512GB PCIe NVMe M.2 SSD (upgradeable)\n• Display: 14-inch Full HD (1920 x 1080) anti-glare IPS display, with optional touch or privacy screen variants\n• Graphics: Integrated Intel UHD Graphics\n• Operating System: Windows 10 Pro or Windows 11 Pro\n• Weight & Build: All-metal/aluminum chassis weighing approximately 2.95 lbs (1.34 kg)\n\nSecurity & Audio\n\n• Security: HP Sure Start, HP BIOSphere, TPM 2.0, fingerprint reader, and an IR webcam with Windows Hello facial recognition and a physical privacy shutter.\n• Audio: Tuned by Bang & Olufsen",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvceit93-1-mvceizve.jpg",
+        "/images/shop/p-mvceit93-2-mvch5wu8.jpg",
+        "/images/shop/p-mvceit93-3-mvch5zax.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "️Intel Core i5  10th Generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ]
+      ],
+      "created": 1792241848983
+    },
+    {
+      "id": "p-mvcdq4kg",
+      "name": "Lenovo yoga X13",
+      "cat": "Laptops",
+      "brand": "lenovo",
+      "price": 44000,
+      "sale": 41000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features & Specifications\n\n• Design & Build: Weighs starting at around 1.2 kg (2.65 lbs) and is built to MIL-STD military-grade durability standards.\n• Display: 13.3-inch touchscreen (FHD or WUXGA options depending on the generation) with multi-touch support.\n• Stylus: Includes a built-in garaged rechargeable pen\nSecurity: Features a match-on-chip fingerprint reader, IR camera for Windows Hello facial recognition, ThinkShutter/webcam privacy cover, and dTPM 2.0 encryption.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcdq4kg-1-mvcdqd4a.jpg"
+      ],
+      "specs": [
+        [
+          "processor️",
+          "️Intel Core i7   10th Generation"
+        ],
+        [
+          "ram",
+          "16gb"
+        ],
+        [
+          "rom",
+          "512gb"
+        ],
+        [
+          "touchscreen",
+          "enabled"
+        ]
+      ],
+      "created": 1792240510624
+    },
+    {
+      "id": "p-mvcd6lbc",
+      "name": "Lenovo Thinkpad X250",
+      "cat": "Laptops",
+      "brand": "lenovo",
+      "price": 20500,
+      "sale": 18500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Display: 12.5-inch anti-glare screen with options ranging from HD (1366 x 768) to FHD (1920 x 1080 IPS, optional touch).\n• Processor: Intel 5th Generation Core processors (typically Intel Core i3, i5-5300U, or i7), with some refurbished listings noting 6th Gen variants.\n• Graphics: Integrated Intel HD Graphics 5500.\n• Memory (RAM): Up to 8GB to 16GB DDR3L via a single RAM slot.\n• Storage: 2.5-inch SATA SSD/HDD (commonly 256GB SSD) plus an M.2 slot option.\n• Battery: Power Bridge dual-battery system with a built-in internal battery and a hot-swappable external 3-cell or 6-cell battery.\n• Ports: 2 x USB 3.0, VGA, Mini DisplayPort, RJ-45 Ethernet, SD card reader, and a 3.5mm audio jack.\n• Weight: Approximately 2.9 to 3.6 lbs (1.31 to 1.66 kg) depending on the battery configuration.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcd6lbc-1-mvcd6z6y.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "Intel Core i5  5th Generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ]
+      ],
+      "created": 1792239599208
+    },
+    {
+      "id": "p-mvcd1sxi",
+      "name": "HP Elitebook 840 g8",
+      "cat": "Laptops",
+      "brand": "hp",
+      "price": 40000,
+      "sale": 37000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Processor: 11th Gen Intel Core i5 (e.g., i5-1135G7, i5-1145G7) or Intel Core i7 (e.g., i7-1165G7)\n• Display: 14-inch diagonal Full HD (1920 x 1080) anti-glare IPS display (options available up to 400 nits or touchscreen)\n• Graphics: Integrated Intel Iris Xe Graphics\n• Memory & Storage: Configurable from 8GB up to 64GB DDR4 RAM; M.2 NVMe SSD storage ranging from 256GB to 512GB\n• Operating System: Windows 10 Pro or Windows 11 Pro",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcd1sxi-1-mvcd2iax.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "Intel Core i5   11th generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ],
+        [
+          "touchscreen",
+          "enabled"
+        ]
+      ],
+      "created": 1792239375798
+    },
+    {
+      "id": "p-mvccqcyk",
+      "name": "Lenovo X380 Yoga",
+      "cat": "Laptops",
+      "brand": "lenovo",
+      "price": 32500,
+      "sale": 29500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Display: 13.3-inch Full HD (1920 x 1080) IPS touchscreen with anti-reflective/anti-smudge properties and 300 nits brightness.\n• Processor Options: 8th Gen Intel Core i5 or i7 (such as the i5-8250U, i5-8350U, or i7-8650U).\n• Graphics: Integrated Intel UHD Graphics 620.\n• Memory (RAM): 8GB or 16GB DDR4 (soldered onboard and not upgradeable post-purchase).\n• Storage: M.2 PCIe NVMe SSD (typically 256GB or 512GB).\n• Ports: USB-C / Thunderbolt 3, USB 3.1 Type-A, HDMI, a microSD card slot (with mobile broadband/SIM support on select models), and an audio combo jack.\n• Security & Extras: Match-on-chip touch fingerprint reader, optional IR camera for Windows Hello facial recognition, and a built-in rechargeable ThinkPad Pen Pro.\n• Weight & Build: Weighs approximately 3.08 lbs (1.4 kg) with a MIL-STD-810G certified durable chassis.",
+      "featured": true,
+      "images": [
+        "/images/shop/p-mvccqcyk-1-mvccqkca.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "️Intel Core i5  8th Generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ],
+        [
+          "touchscreen",
+          "enabled"
+        ]
+      ],
+      "created": 1792238841884
+    },
+    {
+      "id": "p-mvccmbsd",
+      "name": "Lenovo X390 Yoga",
+      "cat": "Laptops",
+      "brand": "lenovo",
+      "price": 33000,
+      "sale": 30000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Display: 13.3-inch Full HD (1920 x 1080) IPS touchscreen with anti-reflective/anti-smudge coating\n• Processor: 8th Generation Intel Core i5 or i7 (up to Intel Core i7-8665U / i7-8565U)\n• Memory (RAM): 8GB or 16GB (soldered on-board)\n• Storage: 256GB or 512GB PCIe NVMe SSD\n• Graphics: Intel UHD Graphics 620\n• Operating System: Windows 10 Pro or Windows 11 Pro\n• Weight: Approximately 1.29 kg to 1.3 kg\n• Extras: Built-in garaged stylus pen (Lenovo Active Pen), backlit keyboard, fingerprint reader, and 720p webcam with physical privacy shutte",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvccmbsd-1-mvccmnr0.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "️Intel Core i5  8th Generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ],
+        [
+          "touchscreen",
+          "enabled"
+        ]
+      ],
+      "created": 1792238653741
+    },
+    {
+      "id": "p-mvcc1gv3",
+      "name": "HP Elitebook 840 G3",
+      "cat": "Laptops",
+      "brand": "hp",
+      "price": 27000,
+      "sale": 24000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Processor: Intel Core i5 (6200U or 6300U) or Intel Core i7 (6500U)\n• Memory: 8GB DDR4 RAM, upgradable up to 32GB\n• Storage: 256GB SSD (standard) or 500GB HDD; supports further upgrades\n• Display: 14-inch diagonal HD or Full HD (1920 x 1080), with optional touch screen configurations\n• Graphics: Integrated Intel HD Graphics 520\n• Operating System: Windows 10 Pro",
+      "featured": true,
+      "images": [
+        "/images/shop/p-mvcc1gv3-1-mvcc2k81.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "intel Core i5 ✅️6th Generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ]
+      ],
+      "created": 1792237680543
+    },
+    {
+      "id": "p-mvcbvyz7",
+      "name": "HP Elitebook 840 g5",
+      "cat": "Laptops",
+      "brand": "hp",
+      "price": 32500,
+      "sale": 29500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Display: 14-inch diagonal Full HD (1920 x 1080) anti-glare IPS, available in non-touch (250 nits) and touchscreen variants.\n• Processor (CPU): 8th Generation Intel Core i5 (such as i5-8250U, i5-8350U) or Intel Core i7 (such as i7-8500U, i7-8650U) quad-core processors.\n• Graphics (GPU): Integrated Intel UHD Graphics 620 (no discrete GPU option).\n• Memory (RAM): Configurable from 8GB up to 16GB (or expandable up to 32GB DDR4).\n• Storage: 256GB or 512GB PCIe NVMe M.2 SSD.\n• Weight & Build: Weighs approximately 3.25 lbs (1.2–1.5 kg) with a silver aluminum body.\n• Audio & Video: Bang & Olufsen upward-firing speakers, HD webcam with privacy shutter, and optional IR camera for Windows Hello facial recognition.\n• Ports & Connectivity: USB Type-C with Thunderbolt support, USB 3.0 / 3.1 Type-A ports, HDMI 1.4b, RJ-45 Ethernet, headphone/microphone combo jack, and optional WWAN/LTE slot.\n• Security: Fingerprint reader and TPM 2.0",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcbvyz7-1-mvcbwfa2.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "️Intel Core i5   8th Generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ]
+      ],
+      "created": 1792237424083
+    },
+    {
+      "id": "p-mvcbnjmq",
+      "name": "HP Elitebook 830 G8",
+      "cat": "Laptops",
+      "brand": "hp",
+      "price": 49000,
+      "sale": 46000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Processor: 11th Gen Intel Core i5 or i7 (such as the i5-1135G7, i7-1165G7, or i7-1185G7)\n• RAM: 8GB, 16GB, or up to 32GB DDR4\n• Storage: 256GB, 512GB, or higher NVMe M.2 SSD\n• Display: 13.3-inch Full HD (1920 × 1080) anti-glare IPS display (available in standard clamshell or x360 360-degree touchscreen convertible variants)\n• Graphics: Integrated Intel Iris Xe Graphics\n• Ports: 2 × Thunderbolt 4 (USB-C), 2 × USB-A 3.2, 1 × HDMI 2.0, and a headphone/microphone combo jack\n• Connectivity: Wi-Fi 6 (AX201) and Bluetooth 5.0\n• Weight & Build: Starts around 1.26 kg with a silver aluminum chassis\n• Security & Audio: Fingerprint reader, IR camera (optional), TPM 2.0, HP Sure Start, and Bang & Olufsen speakers",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcbnjmq-1-mvcbo0n2.jpg",
+        "/images/shop/p-mvcbnjmq-2-mvdhg4yi.jpg",
+        "/images/shop/p-mvcbnjmq-3-mvdhg7kj.jpg",
+        "/images/shop/p-mvcbnjmq-4-mvdhga78.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "Intel Core i7  11th generation"
+        ],
+        [
+          "ram",
+          "16gb"
+        ],
+        [
+          "rom",
+          "512gb"
+        ],
+        [
+          "touchscreen",
+          "enabled"
+        ]
+      ],
+      "created": 1792237030946
+    },
+    {
+      "id": "p-mvcbe0kl",
+      "name": "Dell 5300",
+      "cat": "Laptops",
+      "brand": "Dell",
+      "price": 32500,
+      "sale": 29485,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Specifications & Features\n\n• Display: 13.3-inch Full HD (1920 × 1080) IPS anti-glare or touchscreen display.\n• Processor (CPU): Options range from 8th Gen Intel Core i5 (e.g., i5-8265U, i5-8365U) up to 8th Gen Intel Core i7-8665U vPro, and later 10th Gen Core i5 options.\n• Memory (RAM): 2 upgradeable DDR4 SODIMM slots (typically configured with 8GB to 16GB, supporting up to 32GB–64GB).\n• Storage: M.2 NVMe SSD (typically 256GB to 512GB).\n• Graphics: Integrated Intel UHD Graphics 620.\n• Ports: USB-A 3.1, USB-C (with optional Thunderbolt 3), HDMI 1.4, micro-SD card reader, audio jack, and optional RJ-45 Ethernet.\n• Build & Security: Polycarbonate/carbon-fiber reinforced chassis (MIL-STD 810G certified), optional fingerprint reader, IR camera for Windows Hello, and TPM 2.0",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcbe0kl-1-mvcbe738.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "intel Core i5  8th generation"
+        ],
+        [
+          "ram",
+          "8gb"
+        ],
+        [
+          "rom",
+          "256gb"
+        ],
+        [
+          "touchscreen",
+          "enabled"
+        ]
+      ],
+      "created": 1792236586341
+    },
+    {
+      "id": "p-mvcba76i",
+      "name": "Decho 15Kg Top Load Fully Automated",
+      "cat": "Appliances",
+      "brand": "Decho",
+      "price": 40500,
+      "sale": 37500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features\n\n• Capacity: 10Kg wash capacity suitable for everyday household laundry loads.\n• Fully Automatic Operation: Manages washing, rinsing, and spinning in a single, seamless cycle without manual intervention.\n• Top-Load Design: Allows for easy, ergonomic loading and unloading without bending, plus the flexibility to add clothes mid-cycle.\n• Wash Programs: Multiple settings to accommodate different fabric types, from delicates to heavily soiled clothes.\n• Additional Functions: Features automatic water level adjustment, a quick-wash mode for lightly soiled items, an air-dry function, an LED display, and a child lock.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcba76i-1-mvcbafvk.jpg"
+      ],
+      "specs": [
+        [
+          "kg",
+          "15"
+        ]
+      ],
+      "created": 1792236408282
+    },
+    {
+      "id": "p-mvcb4pyc",
+      "name": "Decho 8Kg Top Load Fully Automated",
+      "cat": "Appliances",
+      "brand": "Decho",
+      "price": 27000,
+      "sale": 24000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features\n\n• Capacity: 8Kg wash capacity suitable for everyday household laundry loads.\n• Fully Automatic Operation: Manages washing, rinsing, and spinning in a single, seamless cycle without manual intervention.\n• Top-Load Design: Allows for easy, ergonomic loading and unloading without bending, plus the flexibility to add clothes mid-cycle.\n• Wash Programs: Multiple settings to accommodate different fabric types, from delicates to heavily soiled clothes.\n• Additional Functions: Features automatic water level adjustment, a quick-wash mode for lightly soiled items, an air-dry function, an LED display, and a child lock.",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcb4pyc-1-mvcb4xxy.jpg"
+      ],
+      "specs": [
+        [
+          "kg",
+          "8"
+        ]
+      ],
+      "created": 1792236152676
+    },
+    {
+      "id": "p-mvcaqnxk",
+      "name": "Decho 10kg front load washing machine",
+      "cat": "Appliances",
+      "brand": "Decho",
+      "price": 43000,
+      "sale": 40000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features\n\n• Capacity: 10kg drum capacity suited for everyday clothing, bedding, and towels.\n• Motor Technology: Brushless DC (BLDC) inverter motor for quiet and energy-efficient operation.\n• Wash Programs: Multiple modes including Quick Wash, Cotton, Mix, Wool, and Spin.\n• Design & Build: Front-loading layout with a stainless steel inner tub, large circular door, digital display panel, and one-touch child/door lock safety",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcaqnxk-1-mvcas2m1.jpg"
+      ],
+      "specs": [
+        [
+          "kg",
+          "10"
+        ]
+      ],
+      "created": 1792235496872
+    },
+    {
+      "id": "p-mvcakeuy",
+      "name": "Decho 8kg front load washing machine",
+      "cat": "Appliances",
+      "brand": "Decho",
+      "price": 38500,
+      "sale": 35500,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features\n\n• Capacity: 8kg drum capacity suited for everyday clothing, bedding, and towels.\n• Motor Technology: Brushless DC (BLDC) inverter motor for quiet and energy-efficient operation.\n• Wash Programs: Multiple modes including Quick Wash, Cotton, Mix, Wool, and Spin.\n• Design & Build: Front-loading layout with a stainless steel inner tub, large circular door, digital display panel, and one-touch child/door lock safety",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvcakeuy-1-mvcakqlf.jpg"
+      ],
+      "specs": [
+        [
+          "kg",
+          "8"
+        ]
+      ],
+      "created": 1792235205179
+    },
+    {
+      "id": "p-mvca2r47",
+      "name": "Decho double door Refrigerators",
+      "cat": "Appliances",
+      "brand": "Decho",
+      "price": 41000,
+      "sale": 38000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Key Features\n\n• Design: Top-mount freezer with a separate lower refrigerator compartment.\n• Cooling: Direct-cool technology with consistent temperature maintenance.\n• Interior: Adjustable tempered glass or durable shelves, door bins, and a vegetable crisper.\n• Build: Sleek silver or dark grey/silver finish designed to resist fingerprints.\n• Efficiency: Low power consumption and quiet compressor operation (around 40–42 dB for larger models).",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvca2r47-1-mvca31dt.jpg"
+      ],
+      "specs": [
+        [
+          "litres",
+          "258"
+        ]
+      ],
+      "created": 1792234381255
+    },
+    {
+      "id": "p-mvc967ec",
+      "name": "Hp Elite book 840 G7",
+      "cat": "Laptops",
+      "brand": "Hp",
+      "price": 38000,
+      "sale": 36000,
+      "qty": 10,
+      "min": 2,
+      "desc": "Hp Elite book 840 G7 ✅Premium Business Laptop \n✅Intel Core i5\n✅10th Generation \n✅8 Cpus Upto 4.8Ghz Ghz Speed \n✅8gb Ram\n✅256gb ssd \n✅14.0 inches FHD Display \n✅TouchScreen \n✅Intel UHD Graphics \n✅Windows 11 Pro + Office 21\nGrade A++",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvc967ec-1-mvc96hlh.jpg"
+      ],
+      "specs": [
+        [
+          "processor",
+          "Intel core i5 10th generation"
+        ],
+        [
+          "Ram",
+          "8gb"
+        ],
+        [
+          "Rom",
+          "256gb"
+        ]
+      ],
+      "created": 1792232862708
+    },
+    {
+      "id": "p-mvc8wcql",
+      "name": "Portable Flexboom",
+      "cat": "Sound",
+      "brand": "hisense",
+      "price": 18000,
+      "sale": 15000,
+      "qty": 11,
+      "min": 2,
+      "desc": "Key Specifications\n\n• Audio Output: Up to 80W max power from a two-speaker system with dual passive radiators\n• Battery Life: Up to 20 hours of playback (at 50% volume with extra features off)\n• Charging: USB-C port with fast-charging support (10 minutes of charge yields about 2 hours of playback; 3 hours for a full charge)\n• Durability: IP67 water and dust resistance rating\n• Connectivity: Bluetooth 5.4 / 6.0, True Wireless Stereo (TWS) pairing, and Auracast group sync\n• App & EQ: Customizable via the Hisense ConnectLife App with 6 EQ modes (Music, Relax, Outdoor, Party, Vocal, Custom)\n• Extra Features: Built-in powerbank function, hands-free speakerphone, 3.5mm AUX input, and a detachable carrying strap",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvc8wcql-1-mvc8wftl.jpg"
+      ],
+      "specs": [],
+      "created": 1792232403069
+    },
+    {
+      "id": "p-mvbdoxtj",
+      "name": "Type c cable",
+      "cat": "Accessories",
+      "brand": "Araimo",
+      "price": 400,
+      "sale": 350,
+      "qty": 1,
+      "min": 2,
+      "desc": "",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvbdoxtj-2-mvbdpfgz.jpg"
+      ],
+      "specs": [],
+      "created": 1792179989047
+    },
+    {
+      "id": "p-mvbcy63d",
+      "name": "Flashdisks",
+      "cat": "Accessories",
+      "brand": "Hp",
+      "price": 1650,
+      "sale": 1500,
+      "qty": 10,
+      "min": 2,
+      "desc": "64gb",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvbcy63d-1-mvbcyau1.jpg"
+      ],
+      "specs": [
+        [
+          "Size",
+          "64 gb"
+        ]
+      ],
+      "created": 1792178740057
+    },
+    {
+      "id": "p-mvbcgyo4",
+      "name": "Flash disks",
+      "cat": "Accessories",
+      "brand": "HP",
+      "price": 660,
+      "sale": 550,
+      "qty": 19,
+      "min": 2,
+      "desc": "",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvbcgyo4-1-mvbchykv.jpg"
+      ],
+      "specs": [
+        [
+          "Size",
+          "2gb"
+        ]
+      ],
+      "created": 1792177937284
+    },
+    {
+      "id": "p-mvbbvqst",
+      "name": "hisense fridge",
+      "cat": "Appliances",
+      "brand": "HISENSE",
+      "price": 20000,
+      "sale": 17500,
+      "qty": 1,
+      "min": 2,
+      "desc": "",
+      "featured": false,
+      "images": [
+        "/images/shop/p-mvbbvqst-1-mvbbzkjl.jpg"
+      ],
+      "specs": [
+        [
+          "Model",
+          "REF094DR"
+        ]
+      ],
+      "created": 1792176947309
+    },
+    {
+      "id": "p-mvbanyif",
+      "name": "Hp elitebook 840 G6",
+      "cat": "Laptops",
+      "brand": "HP",
+      "price": 30000,
+      "sale": 29000,
+      "qty": 3,
+      "min": 1,
+      "desc": "840 g6\nCore i5 8th generation \n8gb ram\n256 gb ssd\nComes with free bag and mouse",
+      "featured": true,
+      "images": [
+        "/images/shop/p-mvbanyif-2-mvbap9dl.jpg"
+      ],
+      "specs": [],
+      "created": 1792174904440
+    },
+    {
+      "id": "p-mvb15xu8",
+      "name": "Dell XPS 9310",
+      "cat": "Laptops",
+      "brand": "",
+      "price": 65000,
+      "sale": null,
+      "qty": 10,
+      "min": 2,
+      "desc": "",
+      "featured": true,
+      "images": [
+        "images/shop/p-mvb15xu8-1-mvb19dnm.jpg"
+      ],
+      "specs": [
+        [
+          "intel",
+          "intel core i7 11th gen"
+        ]
+      ],
+      "created": 1792158947216
+    },
+    {
+      "id": "p-mvb0z1zg",
+      "name": "Dell XPS 9500",
+      "cat": "Laptops",
+      "brand": "",
+      "price": 72000,
+      "sale": null,
+      "qty": 10,
+      "min": 2,
+      "desc": "Intel Core i7-10750H 10th generation\n2.6Ghz base speed\n16GB RAM\n512GB SSD with extra ssd slot\n4GB Nvidia GTX 1650Ti Graphics\n15 Inch 4k Resolution\nTouchscreen",
+      "featured": true,
+      "images": [
+        "images/shop/p-mvb0z1zg-1-mvb14h2v.jpg"
+      ],
+      "specs": [
+        [
+          "Intel",
+          "Intel Core i7-10750H 10th generation"
+        ]
+      ],
+      "created": 1792158625996
+    }
+  ]
+}

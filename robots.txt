@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /console.js
+
+Sitemap: https://www.99computers.co.ke/sitemap.xml

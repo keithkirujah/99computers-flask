@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#050b1a">
+  <meta name="robots" content="noindex, nofollow">
+  <!-- Favicons -->
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="apple-mobile-web-app-title" content="99 COMPUTERS">
+  <meta name="application-name" content="99 COMPUTERS">
+  <script>try{var t=localStorage.getItem('theme');document.documentElement.dataset.theme=t||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark')}catch(e){document.documentElement.dataset.theme='dark'}document.documentElement.classList.add('js')</script>
+  <title>Staff console | 99 COMPUTERS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="nova.css">
+</head>
+<body data-page="console">
+
+<!-- ============================================================
+     ADMIN ICON SPRITE (self-contained — do not rely on nova.js)
+     ============================================================ -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-x" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6l-12 12"/><path d="M6 6l12 12"/></g></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5l0 14"/><path d="M5 12l14 0"/></g></symbol>
+  <symbol id="i-pencil" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4"/><path d="M13.5 6.5l4 4"/></g></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7l16 0"/><path d="M10 11l0 6"/><path d="M14 11l0 6"/><path d="M5 7l1 12a2 2 0 0 0 2 2h8a2 2 0 0 0 2 -2l1 -12"/><path d="M9 7v-3a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v3"/></g></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M21 21l-6 -6"/></g></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4"/><path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4"/></g></symbol>
+  <symbol id="i-download" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2"/><path d="M7 11l5 5l5 -5"/><path d="M12 4l0 12"/></g></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 17.75l-6.172 3.245l1.179 -6.873l-5 -4.867l6.9 -1l3.086 -6.253l3.086 6.253l6.9 1l-5 4.867l1.179 6.873l-6.158 -3.245"/></g></symbol>
+  <symbol id="i-package" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 4.5l0 9l-8 4.5l-8 -4.5l0 -9l8 -4.5"/><path d="M12 12l8 -4.5"/><path d="M12 12l0 9"/><path d="M12 12l-8 -4.5"/><path d="M16 5.25l-8 4.5"/></g></symbol>
+  <symbol id="i-arrow-up-right" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M17 7l-10 10"/><path d="M8 7l9 0l0 9"/></g></symbol>
+  <symbol id="i-photo" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M15 8h.01"/><path d="M3 6a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v12a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3v-12"/><path d="M3 16l5 -5c.928 -.893 2.072 -.893 3 0l5 5"/><path d="M14 14l1 -1c.928 -.893 2.072 -.893 3 0l3 3"/></g></symbol>
+  <symbol id="i-home" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l-2 0l9 -9l9 9l-2 0"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7"/><path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6"/></g></symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454l0 .008"/></g></symbol>
+  <symbol id="i-sun" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M8 12a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"/><path d="M3 12h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7"/></g></symbol>
+  <symbol id="i-layout-dashboard" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4a1 1 0 0 1 1 1v6a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-6a1 1 0 0 1 1 -1"/><path d="M5 16h4a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-2a1 1 0 0 1 1 -1"/><path d="M15 12h4a1 1 0 0 1 1 1v6a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-6a1 1 0 0 1 1 -1"/><path d="M15 4h4a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-2a1 1 0 0 1 1 -1"/></g></symbol>
+  <symbol id="i-settings" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M10.325 4.317c.426 -1.756 2.924 -1.756 3.35 0a1.724 1.724 0 0 0 2.573 1.066c1.543 -.94 3.31 .826 2.37 2.37a1.724 1.724 0 0 0 1.065 2.572c1.756 .426 1.756 2.924 0 3.35a1.724 1.724 0 0 0 -1.066 2.573c.94 1.543 -.826 3.31 -2.37 2.37a1.724 1.724 0 0 0 -2.572 1.065c-.426 1.756 -2.924 1.756 -3.35 0a1.724 1.724 0 0 0 -2.573 -1.066c-1.543 .94 -3.31 -.826 -2.37 -2.37a1.724 1.724 0 0 0 -1.065 -2.572c-1.756 -.426 -1.756 -2.924 0 -3.35a1.724 1.724 0 0 0 1.066 -2.573c-.94 -1.543 .826 -3.31 2.37 -2.37c1 .608 2.296 .07 2.572 -1.065"/><path d="M9 12a3 3 0 1 0 6 0a3 3 0 0 0 -6 0"/></g></symbol>
+  <symbol id="i-lock" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 13a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v6a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-6"/><path d="M11 16a1 1 0 1 0 2 0a1 1 0 0 0 -2 0"/><path d="M8 11v-4a4 4 0 1 1 8 0v4"/></g></symbol>
+  <symbol id="i-device-laptop" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 19l18 0"/><path d="M5 7a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v8a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1l0 -8"/></g></symbol>
+  <symbol id="i-device-desktop" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1v-10"/><path d="M7 20h10"/><path d="M9 16v4"/><path d="M15 16v4"/></g></symbol>
+  <symbol id="i-device-tv" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2l0 -9"/><path d="M16 3l-4 4l-4 -4"/></g></symbol>
+  <symbol id="i-device-mobile" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M6 5a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2v-14"/><path d="M11 4h2"/><path d="M12 17v.01"/></g></symbol>
+  <symbol id="i-device-cctv" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4a1 1 0 0 1 1 -1h16a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-16a1 1 0 0 1 -1 -1l0 -2"/><path d="M8 14a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"/><path d="M19 7v7a7 7 0 0 1 -14 0v-7"/><path d="M12 14l.01 0"/></g></symbol>
+  <symbol id="i-printer" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M17 17h2a2 2 0 0 0 2 -2v-4a2 2 0 0 0 -2 -2h-14a2 2 0 0 0 -2 2v4a2 2 0 0 0 2 2h2"/><path d="M17 9v-4a2 2 0 0 0 -2 -2h-6a2 2 0 0 0 -2 2v4"/><path d="M7 15a2 2 0 0 1 2 -2h6a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-6a2 2 0 0 1 -2 -2l0 -4"/></g></symbol>
+  <symbol id="i-device-speaker" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 5a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2l0 -14"/><path d="M9 14a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"/><path d="M12 7l0 .01"/></g></symbol>
+  <symbol id="i-wash-machine" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 5a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2l0 -14"/><path d="M8 14a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"/><path d="M8 6h.01"/><path d="M11 6h.01"/><path d="M14 6h2"/><path d="M8 14c1.333 -.667 2.667 -.667 4 0c1.333 .667 2.667 .667 4 0"/></g></symbol>
+  <symbol id="i-usb" viewBox="0 0 24 24"><g stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M10 19a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"/><path d="M12 17v-11.5"/><path d="M7 10v3l5 3"/><path d="M12 14.5l5 -2v-2.5"/><path d="M16 10h2v-2h-2l0 2"/><path d="M6 9a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"/><path d="M10 5.5h4l-2 -2.5l-2 2.5"/></g></symbol>
+</svg>
+
+<div id="gate" class="gate" hidden></div>
+<div class="cshell" id="shell" hidden>
+  <nav class="rail glass" aria-label="Console">
+    <a class="brand" href="index.html" aria-label="99 COMPUTERS site"><svg viewBox="0 0 100 100" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#3b74ff"/><stop offset=".55" stop-color="#22d3c5"/><stop offset="1" stop-color="#ff7a3d"/></linearGradient></defs><circle cx="50" cy="50" r="44" fill="none" stroke="url(#lg)" stroke-width="8"/><text x="50" y="64" text-anchor="middle" font-family="Sora,Arial Black,sans-serif" font-weight="700" font-size="38" fill="currentColor" stroke="none">99</text></svg><span>99 COMPUTERS</span></a>
+    <a href="#overview" data-v="overview" aria-label="Overview"><svg class="i " viewBox="0 0 24 24" aria-hidden="true"><use href="#i-layout-dashboard"/></svg><span class="t">Overview</span></a>
+    <a href="#products" data-v="products" aria-label="Products"><svg class="i " viewBox="0 0 24 24" aria-hidden="true"><use href="#i-package"/></svg><span class="t">Products</span></a>
+    <a href="#settings" data-v="settings" aria-label="Settings"><svg class="i " viewBox="0 0 24 24" aria-hidden="true"><use href="#i-settings"/></svg><span class="t">Settings</span></a>
+    <a class="back" href="index.html" aria-label="Back to site"><svg class="i " viewBox="0 0 24 24" aria-hidden="true"><use href="#i-home"/></svg><span class="t">Back to site</span></a>
+  </nav>
+  <main class="cmain">
+    <header class="top">
+      <h1 id="title">Overview</h1>
+      <span class="pill2" id="sync" hidden></span>
+      <button class="btn sm" id="logoutBtn" type="button">Sign out</button>
+      <button class="ib" id="themeToggle" type="button" aria-label="Switch to light theme"><svg class="i i-moon" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-moon"/></svg><svg class="i i-sun" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-sun"/></svg></button>
+    </header>
+    <div id="view" class="view"></div>
+  </main>
+</div>
+<script src="console.js"></script>
+</body>
+</html>
